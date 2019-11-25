@@ -1,0 +1,21 @@
+html, body {
+    height:100%;
+}
+
+body {
+    background: url('/assets/images/background.jpg') center center no-repeat  rgba(0,0,0,0.6);
+    background-size: cover;
+    background-blend-mode: multiply;
+    color: white;
+}
+
+#clock{
+font-size: 6em;
+width:3.8em
+}
+
+
+
+#date{
+    font-size: 2em
+}
