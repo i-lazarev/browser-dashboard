@@ -1,4 +1,4 @@
-# Browser Dashoard
+# Browser Dashboard
 A browser dashboard with Moment.js, Unsplash and Quote APIs
 
 
